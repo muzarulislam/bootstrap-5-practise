@@ -4,7 +4,6 @@
 .navbar-brand img{
     width: 50px;
 }
-
 /* Top-Banner */
 .breadcrumb{
     background-color: #e9ecef;
@@ -16,10 +15,11 @@
 .breadcrumb-item a{
     text-decoration: none;
 }
-
 /* Banner */
 .carousel-item img{
-    width: 100%;
     height: 500px;
 }
-/* Alerts */
+/* footer */
+.footer{
+    background-color: #17a2b8;
+}
